@@ -1,6 +1,6 @@
 export default [
   {
-    ignores: ["node_modules/**", "cart/**", "daily-challenges/**"],
+    ignores: ["node_modules/**"],
   },
   {
     files: ["**/*.js"],
@@ -16,7 +16,11 @@ export default [
         window: "readonly",
         setTimeout: "readonly",
         clearTimeout: "readonly",
+        setInterval: "readonly",
+        clearInterval: "readonly",
         fetch: "readonly",
+        FormData: "readonly",
+        URLSearchParams: "readonly",
       },
     },
     rules: {

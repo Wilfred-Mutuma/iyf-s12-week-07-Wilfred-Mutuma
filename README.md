@@ -13,6 +13,7 @@ The main project is a refactored To-Do List application based on the Week 5 proj
 ## Main Features
 
 ### 1. Refactored To-Do List
+
 - Add new tasks.
 - Edit existing tasks.
 - Delete tasks.
@@ -24,6 +25,7 @@ The main project is a refactored To-Do List application based on the Week 5 proj
 - Handle missing or invalid stored data.
 
 ### 2. Shopping Cart
+
 - Display available products.
 - Add products to the cart.
 - Increase and decrease product quantities.
@@ -34,6 +36,7 @@ The main project is a refactored To-Do List application based on the Week 5 proj
 - Clear the entire cart.
 
 ### 3. Daily Challenges
+
 - Theme persistence using localStorage.
 - Recent search history.
 - Form autosave and recovery.
