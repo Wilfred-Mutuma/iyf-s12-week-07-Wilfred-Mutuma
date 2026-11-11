@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shopping Cart</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h1>Shopping Cart</h1>
+      <p>Week 7 JavaScript Best Practices</p>
+    </header>
+
+    <main class="container">
+      <section class="products-section">
+        <h2>Available Products</h2>
+        <div id="product-list" class="product-list"></div>
+      </section>
+
+      <section class="cart-section">
+        <h2>Your Cart</h2>
+
+        <p>Items in cart: <strong id="cart-count">0</strong></p>
+
+        <div id="cart-items"></div>
+
+        <div class="cart-summary">
+          <h3>Total: KSh <span id="cart-total">0.00</span></h3>
+          <button id="clear-cart" type="button">Clear Cart</button>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

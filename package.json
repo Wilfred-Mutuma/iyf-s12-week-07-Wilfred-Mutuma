@@ -1,0 +1,15 @@
+{
+  "name": "iyf-s12-week-07-wilfred-mutuma",
+  "version": "1.0.0",
+  "description": "Week 7 JavaScript Best Practices - To-Do List Refactor",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "eslint": "^9.39.5",
+    "prettier": "^3.9.10"
+  }
+}
