@@ -168,12 +168,11 @@ Live Website: https://wilfred-mutuma.github.io/iyf-s12-week-07-Wilfred-Mutuma/
 
 ## Collaboration
 
-**My Pull Request:** [Week 7 Refactor PR #1](https://github.com/Wilfred-Mutuma/iyf-s12-week-07-Wilfred-Mutuma/pull/1)
+- My Pull Request: [Week 7 Refactor PR #1](https://github.com/Wilfred-Mutuma/iyf-s12-week-07-Wilfred-Mutuma/pull/1)
+- Peer Reviewer: [Rodricks Okoyo (@okoyo13)](https://github.com/okoyo13)
+- Peer Review PR: [Rodricks' Week 7 PR #1](https://github.com/okoyo13/iyf-s12-week-07-okoyo13/pull/1)
 
-**Peer Reviewer:** To be added after IYF assigns my Week 7 partner.
-
-**Peer Review PR:** To be added after receiving my partner's pull request.
-
+I reviewed my partner's pull request and submitted three meaningful inline comments covering state management, saved-data validation, and input validation.
 ## Author
 
 **Wilfred Mutuma**  
