@@ -162,7 +162,9 @@ Through this project, I practised:
 
 ## Live Demo
 
-GitHub Pages deployment link: **To be added after deployment.**
+The Week 7 project is deployed using GitHub Pages.
+
+Live Website: https://wilfred-mutuma.github.io/iyf-s12-week-07-Wilfred-Mutuma/
 
 ## Collaboration
 
